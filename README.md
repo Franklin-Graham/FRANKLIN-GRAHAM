@@ -6,7 +6,7 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Franklin-Graham/&title=Profile%20Views)   [![telegram badge](https://img.shields.io/badge/FranklinㅤGraham-30302f?style=flat&logo=telegram)](https://telegram.dog/Franklin_Graham_bot)  [![telegram badge](https://img.shields.io/badge/SPACEㅤXㅤBOTS-30302f?style=flat&logo=telegram)](https://telegram.dog/Space_x_bots)
 
- <img src="https://img_girl.jpg" alt="img">
+ <img src="https://www.qries.com/images/banner_logo.png" alt="img">
 
 
 
